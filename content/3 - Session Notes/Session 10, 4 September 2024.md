@@ -1,5 +1,4 @@
 ---
-draft: "false"
 aliases:
   - Session 10
 ---
