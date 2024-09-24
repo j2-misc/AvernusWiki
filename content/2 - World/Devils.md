@@ -2,6 +2,7 @@
 tags:
   - Monsters
   - Hells
+  - Devils
 ---
 ![[Devils.png]]
 Fiends native to [[Baator]], Devils form a planes-wide army that stands against the [[Demons]] in [[The Blood War]].
