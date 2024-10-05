@@ -16,6 +16,9 @@ aliases:
 - Party collected a fragment of the [[Staff of Power]] and took a short rest
 - After, they returned to [[Levistus's Emissary]]
 - Everyone except Ilsa-vyx received a boon
+	- [[Levistus]] did offer to make a deal with her at a later date for information about [[Jade Strongwind|her mother]]
+- Ilsa-vyx spoke with [[Ramius Dangremond|High Rider Ramius]] about recent happenings
+- Party met The Ferryman, [[Koh Tam]] and changed course to [[The Wandering Emporium]]
 # Verbose
 The party drove to the [[Lake of Slime|Pit]] of [[Shummrath]]. It was filled to the brim with dark green slime. The party split to affix three [[Boomsticks]] on either side. Both halves of the party ignited their respective fuses and explosions began to rock the canyon as the boomsticks went off, causing debris to hurdle to the stream below.
 
