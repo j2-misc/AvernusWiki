@@ -100,7 +100,7 @@ They asked who her boss was and she told them she worked for [[Celosia|Cockscomb
 
 They considered whether or not to disclose [[Jander]]’s vampirism to the Exiles, and eventually decided to after an extended discussion where the lengths to which diviners can spy on someone with which they’re familiar were brought up. Regardless, they told the Exiles who didn’t seem to care too much, and they all followed them to their base.
 
-Before leaving, however, Ilsa-vyx tried to take a branch from the tree. There was a [[strange horse|strange horse]] that she hadn’t seen before. It galloped away and vanished.
+Before leaving, however, Ilsa-vyx tried to take a branch from the tree. There was a [[Raragin|Raragin]] that she hadn’t seen before. It galloped away and vanished.
 ## On the road
 Evryn asked [[Hellripper]] why she was so open to trusting the party. She said that you have to, “it’s all us folk suffering together. Against all those fiends…” She mentioned that she’d seen the name Evryn before on some document of her boss’s. “Could’ve been an ‘Evelyn’ for all I know, but I guess it’s just I got a hunch for these things.” They talked about why the party was here, how Elturel was was dragged into hell.
 

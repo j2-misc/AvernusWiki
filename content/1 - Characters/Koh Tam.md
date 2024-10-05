@@ -1,6 +1,9 @@
 ---
 tags:
   - NPCs
+  - Avernus
+aliases:
+  - The Ferryman
 ---
 ![[KohTam.png]]
 A celestial, scholar of the [[Baator|Nine Hells]], and acquaintance of [[Ramius Dangremond|High Rider Ramius]]. A frequent patron of [[Fort Knucklebones|The Well]].
