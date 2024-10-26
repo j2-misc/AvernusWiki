@@ -1,6 +1,7 @@
 ---
 tags:
   - NPCs
+title: Gargauth the Gentle
 ---
 ![[Gargauth.png]]
 > *"You not Deevil! Deevil red! And you green."*

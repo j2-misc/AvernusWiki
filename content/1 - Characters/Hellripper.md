@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Hells_Exiles
+title: Hellripper, Saint's Lieutenant
 ---
 ![[Hellripper.png]]
 > *"Well, who do we have here?"*

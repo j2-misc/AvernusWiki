@@ -4,6 +4,7 @@ tags:
   - Deity
 aliases:
   - The Morninglord
+title: Lathander, The Morninglord
 ---
 # Synopsis
 Lathander is one of the four chief deities of [[Elturel]] alongside [[Helm]], [[Torm]], and [[Tyr]]. He is the god of birth, renewal, spring, youth, athletics, self-perfection, vitality, and creativity. Primarily, though, the Morninglord is the god of the dawn rather than the sun itself. His name is often invoked when in need of hope or at the beginning of a new chapter in life.

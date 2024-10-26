@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Avernus
+title: Rinne, Levistus's Prodigy
 ---
 ![[Levistus Tiefling.png]]
 > *"Did you want something?"*

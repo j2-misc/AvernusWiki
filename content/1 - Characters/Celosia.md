@@ -6,6 +6,7 @@ tags:
 aliases:
   - Cockscomb
   - Evryn's mother
+title: Celosia Moondancer, Saint of the Exiles
 ---
 Celosia appears to be a pale woman with shoulder-length blonde hair similar to her son, [[Evryn]]'s, and often wears a smile.
 

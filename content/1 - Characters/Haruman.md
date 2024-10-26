@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Zariel
+title: Haruman, Of Zariel
 ---
 ![[Haruman.png]]
 > *“We are here to introduce ourselves and state our vows clearly and publicly so you may know that we are here to serve you, to defend you, to protect you even if it takes our dying breath.”*

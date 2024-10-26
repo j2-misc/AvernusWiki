@@ -2,6 +2,10 @@
 tags:
   - NPCs
   - Zariel
+title: Jander the Cursed
+aliases:
+  - Jander the Cursed
+  - Jander, Of Zariel
 ---
 ![[Jander.png]]
 > *“Save me from that cursed hill, and I beg of you help me atone for my sins.”*

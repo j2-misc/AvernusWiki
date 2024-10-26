@@ -2,6 +2,7 @@
 tags:
   - Location
   - Avernus
+  - Fort_Knucklebones
 ---
 ![[FortKnucklebones.png]]
 # Synopsis

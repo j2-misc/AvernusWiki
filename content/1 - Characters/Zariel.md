@@ -4,6 +4,8 @@ tags:
   - Devils
   - Avernus
   - Zariel
+  - Archdevils
+title: Zariel the Fallen
 ---
 ![[Zariel.png]]
 > *"Cowards! Traitors! Weaklings! Your feeble High Overseer has placed your souls within my grasp. And with my grasping hand, I, Archdevil Zariel, shall drag you down to Avernus where you shall suffer punishment for your sins!"*

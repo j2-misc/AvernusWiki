@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Zariel
+title: Gideon Brightscored, Papal Impostor
 ---
 ![[Gideon.png]]
 > *"The four of you have an aura I don't trust."*

@@ -2,6 +2,8 @@
 tags:
   - NPCs
   - Avernus
+  - Demon_Lords
+title: Shummrath the Immortal
 ---
 ![[Shummrath.png]]
 

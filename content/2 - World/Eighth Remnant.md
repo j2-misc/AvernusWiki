@@ -7,3 +7,4 @@ tags:
 # Synopsis
 One of several [[Warlord Gangs]] in [[Avernus]], Eighth Remnant is comprised of bloodthirsty, stupid [[Devils]].
 # Notable Members
+- [[Princeps Kovik]], leader of Eighth Remnant

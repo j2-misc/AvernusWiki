@@ -7,6 +7,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Learn about [[Lord Yashio]]
+- [x] Find [[Lulu]] at the [[The Wandering Emporium]]
+- [x] Report back to [[Levistus]] to receive a boon
 - [x] Find the [[Staff of Power]] fragment in the [[Lake of Slime]]
 - [x] Dam the stream of [[The Styx]] to revive [[Shummrath]]
 - [x] Free the [[Hellriders]] from [[Haruman's Hill]]
@@ -17,22 +20,22 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Cause mischief at [[The Infernal Rapture]]
+- [ ] Gather supplies for the [[Elturel]] Refugees
 - [ ] Repair [[The Tormentor]] (axle fixed, missing HP)
 - [ ] Learn more about [[Avernus]]
-- [ ] Gather supplies for the [[Elturel]] Refugees
 - [ ] Free [[Elturel]]
+- [ ] Soul Coin: Set [[Ashton Dungress]] to rest
+- [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
 
 
 ## To-Do
 
-- [ ] Report back to [[Levistus]] to receive a boon
-- [ ] Find [[Lulu]] at the [[The Wandering Emporium]]
 - [ ] Find the [[Staff of Power]] shard in the flying tower
 - [ ] Find the [[Staff of Power]] shard in "someplace darker"
-- [ ] Find information about [[Olanthius]] at [[the battlefield]]
-- [ ] Find [[Lady Yael]]'s whereabouts
-- [ ] Redeem [[Zariel]]
-- [ ] Learn about [[Lord Yashio]]
+- [ ] Find [[Olanthius]] at [[the crypt]]
+- [ ] Find [[Lady Yael]] at [[the cyst]]
+- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 
 
 

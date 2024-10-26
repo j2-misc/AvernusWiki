@@ -3,6 +3,8 @@ tags:
   - NPCs
   - Hells
   - Devils
+  - Archdevils
+title: Levistus, Lord of the Fifth
 ---
 ![[Levistus.png]]
 > *"Really I have no interest in your souls, or lives. In return for a bit of your favor, you can take one step closer to saving your city and yourselves. Do we have an understanding?"*

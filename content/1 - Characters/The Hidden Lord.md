@@ -3,6 +3,10 @@ tags:
   - NPCs
   - Avernus
   - Magical_Item
+  - Soul-Trapped
+aliases:
+  - Karnivash
+title: Karnivash, The Hidden Lord
 ---
 ![[HiddenLord.png]]
 > *"That thing's definitely cursed."*

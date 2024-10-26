@@ -1,6 +1,7 @@
 ---
 tags:
   - NPCs
+title: Tiax, Thief
 ---
 ![[Tiax.png]]
 A gnome pugilist and enjoyer of alcohol the party freed from [[The Tower of Urm]]. Previously, he was employed by "The Great Mage" [[Mordenkainen]] but was abandoned by him when [[Orrim]] sieged the tower, leaving him to be captured and restrained by diamond-studded manacles which prevented him from teleporting away.

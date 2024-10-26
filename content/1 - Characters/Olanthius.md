@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Zariel
+title: Olanthius, Of Zariel
 ---
 ![[Olanthius.png]]
 > *“I vow to protect [[Idyllglen]] with my life.”*

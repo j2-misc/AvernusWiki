@@ -14,7 +14,7 @@ aliases:
 - Ilsa-vyx and Mekhi talked about whether or not to tell [[Ramius Dangremond|Ramius]] about [[Gargauth]]
 	- They did -> “enemy of my enemy is my friend”
 - The party conversed about the tastelessness of food in the hells
-	- [[Infernal Rapture]] -> wandering restaurant
+	- [[The Infernal Rapture]] -> wandering restaurant
 	- [[Heward's Pouch of Seasonings]].
 - Evryn spoke more with the Acolyte trapped in the [[Soul Coin]] once again.
 	- She asked him to follow through with her request.

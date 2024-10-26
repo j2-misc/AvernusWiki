@@ -2,6 +2,7 @@
 tags:
   - NPCs
   - Hells_Exiles
+title: Thiodon, Exiles' Artificer
 ---
 ![[Thiodon.png]]
 > ***"'I'll get to workin' on it."***
