@@ -40,7 +40,7 @@ Mekhi muttered a string of complaints to Evryn.
 
 "[[Zariel]]."
 
-Then a combat broke out. [[Raragin]], the white devil, commented something or other about its suspicion of the party from when it saw them at [[Haruman's Hill]] ([[Session 11, 11 September 2024|Session 11]]). This fell on deaf ears as Ilsa-vyx knocked the two lesser devils into the [[Lake of Slime]]. THankfully, the party was able to drive the devils off and at that moment, [[Shummrath]] reformed from the lake.
+Then a combat broke out. [[Raragin]], the white devil, commented something or other about its suspicion of the party from when it saw them at [[Haruman's Hill]] ([[Session 11, 11 September 2024 - To Exile|Session 11]]). This fell on deaf ears as Ilsa-vyx knocked the two lesser devils into the [[Lake of Slime]]. THankfully, the party was able to drive the devils off and at that moment, [[Shummrath]] reformed from the lake.
 
 ![[Shummrath.png]]
 

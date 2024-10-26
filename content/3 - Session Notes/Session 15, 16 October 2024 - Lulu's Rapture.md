@@ -13,7 +13,7 @@ aliases:
 - Then the party found [[Lulu]] would be their waitress for the evening
 	- She seemed to be under the effect of some enchantment magic that made her forget about most everything besides the appetizers she kept recommending
 - Ilsa-vyx and Mekhi managed to get the party into the kitchen as per a deal with the chef (which they loopholed their way out of later)
-	- Mekhi poisoned the dessert with *dust of sneezing and coughing* he'd acquired from [[Mezhikchen]]'s ([[Session 9, 28 August 2024|Session 9]])
+	- Mekhi poisoned the dessert with *dust of sneezing and coughing* he'd acquired from [[Mezhikchen]]'s ([[Session 9, 28 August 2024 - The Tower|Session 9]])
 	- Evryn summoned some rats for later
 - The show portion of their dinner-and-show began with a chained [[Gargauth]] to be prodded at by a pair of [[Devils]]
 - The party caused more chaos even more overtly as their premeditated plans fell into motion and escaped with a number of things:

@@ -4,7 +4,7 @@ tags:
   - Avernus
 ---
 # Synopsis
-A moving bazaar frequented by the necromancer [[Feonor]] and operated by [[Mahadi]]. It is unlikely the party will be welcomed back after the events of [[Session 15, 16 October 2024|Session 15]].
+A moving bazaar frequented by the necromancer [[Feonor]] and operated by [[Mahadi]]. It is unlikely the party will be welcomed back after the events of [[Session 15, 16 October 2024 - Lulu's Rapture|Session 15]].
 # Locations
 - [[The Firesnake Forge]]
 - [[The Infernal Rapture]]

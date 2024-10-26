@@ -7,7 +7,7 @@ title: Gideon Brightscored, Papal Impostor
 ![[Gideon.png]]
 > *"The four of you have an aura I don't trust."*
 
-A vampiric monster and worshipper of [[Zariel]] who briefly resided in a chapel of [[Lathander|The Morninglord]] following [[Elturel#The Descent|Elturel's Descent]]. Him and his cronies slew [[Lina]] and the other acolytes at the chapel, and captured [[Zythan Avhoste]] in an attempt to force the diviner to alter [[The Helm of Torm]] to be able to contact [[Zariel]] ([[Session 5, 31 July 2024|Session 5]]).
+A vampiric monster and worshipper of [[Zariel]] who briefly resided in a chapel of [[Lathander|The Morninglord]] following [[Elturel#The Descent|Elturel's Descent]]. Him and his cronies slew [[Lina]] and the other acolytes at the chapel, and captured [[Zythan Avhoste]] in an attempt to force the diviner to alter [[The Helm of Torm]] to be able to contact [[Zariel]] ([[Session 5, 31 July 2024 - Graveyard Shift|Session 5]]).
 # Gideon's Testament
 A tome filled with a record of conversations Gideon had with a being he described as divinity beyond divinity, [[Zariel|The Woman in White]]. 
 
@@ -27,6 +27,6 @@ From the final transcript:
 
 > *The great blindness, the great lie is that the gods protect man from chaos. They are inactive in the war against chaos. That is why Zariel turned from heaven, because she saw the truth of her holy purpose, to stand between man and chaos. It is hell that fights eternal so mortals can live a few meager years on the material plane.*
 
-(See [[Session 5, 31 July 2024|Session 5]]).
+(See [[Session 5, 31 July 2024 - Graveyard Shift|Session 5]]).
 # Allegiances
 - [[Zariel]]

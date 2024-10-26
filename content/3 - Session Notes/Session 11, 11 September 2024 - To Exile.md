@@ -28,7 +28,7 @@ aliases:
 # Verbose
 The party considered helping [[Jander]] down. Mekhi raised the point that the last time they saw a [[Zariel|High Hellrider]] in [[Avernus]], it was [[Haruman]] who tried to kill them. Jander opened his eyes and asked them about Haruman, who’d put him there. He seemed thankful when they said they’d killed him.
 
-Ilsa-vyx told him about the vision they received from [[The Helm of Torm]], and asked if he spoke to them ([[Session 6, 7 August 2024|Session 6]]). He said he didn’t, and that he doubted the gods cared about him.
+Ilsa-vyx told him about the vision they received from [[The Helm of Torm]], and asked if he spoke to them ([[Session 6, 7 August 2024 - Idyllglen|Session 6]]). He said he didn’t, and that he doubted the gods cared about him.
 
 “If you’re favored by the gods, then I’m obliged to help you,” Jander said.
 
@@ -74,7 +74,7 @@ Evryn said that he did. He didn’t, of course, but he knew how to craft ethos w
 
 Despite some contention on how exactly any proposed blood donation would work (and the amount of potential donors), everyone seemed pretty alright with sparing Jander. He swore that if ever he would succumb to his hunger, he would ensure his death before any harm befell anyone else. Ilsa-vyx then gave Haruman’s Blade to Helen, who swore she’d be the one to keep Jander in check.
 
-Evryn then suggested dispeling Jander’s curse with the scroll he’d found a while back at the chapel in Elturel’s [[The Grand Cemetery|Grand Cemetery]] ([[Session 5, 31 July 2024|Session 5]]). The party also argued a bit about where to keep him after, but whatever they decided, they’d need to get him down first, so they started with that.
+Evryn then suggested dispeling Jander’s curse with the scroll he’d found a while back at the chapel in Elturel’s [[The Grand Cemetery|Grand Cemetery]] ([[Session 5, 31 July 2024 - Graveyard Shift|Session 5]]). The party also argued a bit about where to keep him after, but whatever they decided, they’d need to get him down first, so they started with that.
 
 “I know there are not many stories of a redeemed vampire. But perhaps, gods willing, I may be the first.” They would head to [[Fort Knucklebones]] and decide what to do from there. However, they would have to deal with a warband first.
 ## The warband approached
@@ -108,7 +108,7 @@ They made some idle chatter. When asked, Hellripper didn’t disclose where she 
 
 During the chase, Hellripper directed Mekhi through a nearby bog while the rest of the party tried to stall their pursuers, casting spells and the like trying to render vehicles inoperable. All the while, one remaining fiend loaded up a canon. They managed to make a leap over a chasm, though their axle was damaged in the process. Hellripper assured the party they’d get their car fixed up.
 ## After the chase
-Hellripper informed the party they were lucky to be able to rid themselves of their pursuers. Gang was filled with nothin’ but devils–the mean kind. [[Bitterbreath]] and his [[The Marauders|Marauders]] were mentioned, and Ilsa-vyx bragged that they took their machine from him and put him on his ass ([[Session 7, 14 August 2024|Session 7]], [[Session 8, 21 August 2024|8]]). Eventually, they made it to an inconspicuous cave, only big enough for a few vehicles to pass through at a time. It sloped down into darkness. “Follow the car ahead very closely. Don’t want you gettin’ lost.” After a while navigating through darkness, they made it.
+Hellripper informed the party they were lucky to be able to rid themselves of their pursuers. Gang was filled with nothin’ but devils–the mean kind. [[Bitterbreath]] and his [[The Marauders|Marauders]] were mentioned, and Ilsa-vyx bragged that they took their machine from him and put him on his ass ([[Session 7, 14 August 2024 - Welcome to Avernus|Session 7]], [[Session 8, 21 August 2024 - Fort Knucklebones|8]]). Eventually, they made it to an inconspicuous cave, only big enough for a few vehicles to pass through at a time. It sloped down into darkness. “Follow the car ahead very closely. Don’t want you gettin’ lost.” After a while navigating through darkness, they made it.
 ## The Exiles’ base
 There was a garden, a mural along the wall behind it depicting an idyllic scene. About a dozen pathways branched from it. There were even parents watching over their children. [[Hellripper]] said the place was made livable thanks to the work of some druids.
 

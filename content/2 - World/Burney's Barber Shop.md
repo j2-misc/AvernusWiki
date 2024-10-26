@@ -5,4 +5,4 @@ tags:
   - Avernus
 ---
 # Synopsis
-A Barber Shop run by [[Burney]], a bronze dragon woman ([[Session 14, 9 October 2024#The Barber Shop|Session 14]]).
+A Barber Shop run by [[Burney]], a bronze dragon woman ([[Session 14, 9 October 2024 - Emporium Stroll#The Barber Shop|Session 14]]).
