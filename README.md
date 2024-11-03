@@ -23,11 +23,11 @@ Once you're in the terminal, type in git and hit enter. If it outputs a buncha w
 
 If it works and everything's good, close the terminal window.
 ### GITHUB CLI
-https://cli.github.com/ -> download for your OS, install with the default settings. Open up a new terminal window and type in "gh auth login" then hit enter. Hit enter again to go with GitHub.com, then again to go with HTTPS, and one more time to authenticate git with your GH credentials, and a fourth to log in with a web browser.
+https://cli.github.com/ -> download for your OS, install with the default settings. Open up a new terminal window and type in `gh auth login` then hit enter. Hit enter again to go with GitHub.com, then again to go with HTTPS, and one more time to authenticate git with your GH credentials, and a fourth to log in with a web browser.
 
 Copy the code it gives you by highlighting it and using ctrl+shift+c (not ctrl+c as that will end the program prematurely) and then hit enter to open your web browser. Follow the prompts from there and login, it should be fairly intuitive. Once all that's done, we're good on setting up GitHub stuff for now.
 ### NODE
-Go to https://nodejs.org/en/download/prebuilt-installer and download the installer for your operating system. Should be fairly straight forward, and when it's all installed check to make sure everything's good by opening up a terminal window and typing in "node -v" and hitting enter, and "npm -v" and hitting enter. Both should output something like "v22.11.0" or "v10.9.0" if either shows something else, something's gone wrong.
+Go to https://nodejs.org/en/download/prebuilt-installer and download the installer for your operating system. Should be fairly straight forward, and when it's all installed check to make sure everything's good by opening up a terminal window and typing in `node -v` and hitting enter, and `npm -v` and hitting enter. Both should output something like `v22.11.0` or `v10.9.0` if either shows something else, something's gone wrong.
 ### (optional) OBSIDIAN
 Go to https://obsidian.md/ and download the version for your operating system. That's it, no terminal verification or anything.
 ## CLONING THE WIKI
