@@ -81,6 +81,6 @@ Ilsa-vyx returned to Gargauth while Kiarin and Mekhi were arguing and told him t
 
 Eventually, the whole party did kick some deevils. Gargauth even was interested in joining the party for their quest if they’d have him. Mekhi was highly in favor of the idea. Ilsa-vyx asked him where he was from. He wasn’t entirely sure what or where Elturel was, but he did mention Koh Tam, who he said was very friendly. Ultimately they decided not to take him with them, since who else would kick deevils.
 
-Afterwards, they ventured through Westerly–the same district as [[The Dancing Pony]]–toward [[The Grand Cemetery]].
+Afterwards, they ventured through Westerly–the same district as [[The Dancing Horse]]–toward [[The Grand Cemetery]].
 
 At the cemetery, they saw Hellriders in organized patrols pushing successfully against droves of skeletons. The brass gate surrounding the cemetery grounds was out of place, from the earthquake that accompanied the fall. The grass had withered; flowers, wilted and a grand chapel with shattered windows sat in the center. Columns resembling heroes of the past decorated the way forward, into danger.

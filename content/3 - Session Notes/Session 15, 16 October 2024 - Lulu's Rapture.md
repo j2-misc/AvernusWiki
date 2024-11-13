@@ -93,7 +93,7 @@ The party then explained that Elturel was still standing (technically; more like
 
 Mekhi explained, somewhat unceremoniously, that they found and killed [[Haruman]], and that they found [[Jander]] but he was a [[Vampire]] (though that wasn't different).
 
-Lulu was on the verge of tears, entirely overwhelmed learning most of her friends turned super evil. Though she did offer to tell them where Olanthius and [[Lady Yael]] were. Olanthius was presumably still at [[the crypt]] to the southwest; Yael, [[the cyst]].
+Lulu was on the verge of tears, entirely overwhelmed learning most of her friends turned super evil. Though she did offer to tell them where Olanthius and [[Lady Yael]] were. Olanthius was presumably still at [[The Crypt of the Hellriders]] to the southwest; Yael, [[the cyst]].
 
 Olanthius and his soldiers supposedly built the crypt to seal themselves away as to not turn like [[Haruman]]. Olanthius sent Lulu to see if she could find a way to get everyone out, but that was when she was captured by Mahadi.
 

@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Gather supplies for the [[Elturel]] Refugees
+- [x] Cause mischief at [[The Infernal Rapture]]
 - [x] Learn about [[Lord Yashio]]
 - [x] Find [[Lulu]] at the [[The Wandering Emporium]]
 - [x] Report back to [[Levistus]] to receive a boon
@@ -20,8 +22,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Cause mischief at [[The Infernal Rapture]]
-- [ ] Gather supplies for the [[Elturel]] Refugees
 - [ ] Repair [[The Tormentor]] (axle fixed, missing HP)
 - [ ] Learn more about [[Avernus]]
 - [ ] Free [[Elturel]]
@@ -33,9 +33,10 @@ kanban-plugin: board
 
 - [ ] Find the [[Staff of Power]] shard in the flying tower
 - [ ] Find the [[Staff of Power]] shard in "someplace darker"
-- [ ] Find [[Olanthius]] at [[the crypt]]
+- [ ] Find [[Olanthius]] at [[The Crypt of the Hellriders]]
 - [ ] Find [[Lady Yael]] at [[the cyst]]
 - [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
+- [ ] Reunite [[Gargauth]] with [[Koh Tam]]
 
 
 
