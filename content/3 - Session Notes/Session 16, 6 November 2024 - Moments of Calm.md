@@ -118,7 +118,7 @@ He told a story of Olanthius and [[Lady Yael]]. How they fought back against hor
 
 Ramius thanked Evryn again for the help he and his party had provided the city, and offered him eighty (80) platinum pieces. "Better in your hands than in the city's coffers."
 ## In the morning
-The party regrouped, and Ilsa-vyx told the party about the [[Session 16, 6 November 2024 - Title Pending#Ilsa-vyx's dream|weird dream]] she had. Evryn joked that he sold his soul, and Mekhi believed him. Then he told the truth that [[Ramius Dangremond|Ramius]] offered the party eight-hundred gold's worth of patronage. Then they decided they ought to head to [[The Crypt of the Hellriders]] next.
+The party regrouped, and Ilsa-vyx told the party about the [[Session 16, 6 November 2024 - Moments of Calm#Ilsa-vyx's dream|weird dream]] she had. Evryn joked that he sold his soul, and Mekhi believed him. Then he told the truth that [[Ramius Dangremond|Ramius]] offered the party eight-hundred gold's worth of patronage. Then they decided they ought to head to [[The Crypt of the Hellriders]] next.
 
 They stumbled upon [[Lulu]] and [[Gargauth]], and surprisingly they hit it off really well. Gargauth stated that he didn't remember much else beyond just that it's good to kick dee-vils and help humans. He remembered [[Koh Tam]], but he was unaware of his location, and he hoped to see him again one day.
 
