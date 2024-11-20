@@ -9,7 +9,7 @@ aliases:
 - [[Kiarin]]
 # Bullets
 - The party went to the [[Lake of Slime]] to free [[Shummrath]]
-- They dammed the offshoot stream of [[The Styx]]
+- They dammed the offshoot stream of [[The River Styx]]
 - [[Raragin]] attacked the party per [[Zariel]]'s orders
 - Party forced them to flee and freed Shummrath who chased after the devils
 	- Before leaving he said to Kiarin, "Thank you, [[Lord Yashio]]"
@@ -70,11 +70,11 @@ Levistus suggested that her refusing the power might be what prevents her from f
 
 Ilsa-vyx asked if she could have that instead of a boon, but the offer was refused. They'd have to broker a new deal. Afterwards, they decided to head back to [[Elturel]], as it'd been a while and they'd need to rest soon anyways.
 ## On the way back to Elturel...
-They saw that [[The Styx]]'s flow had diverted by over a hundred feet, potentially revealing a new path. They continued on toward [[Elturel]].
+They saw that [[The River Styx]]'s flow had diverted by over a hundred feet, potentially revealing a new path. They continued on toward [[Elturel]].
 
 Ilsa-vyx received a sending from [[Ramius Dangremond|High Rider Ramius]], to whom she gave a brief status report. Afterwards, Ramius said that they likely wouldn't be able to return to Elturel, but he asked if they found any [[Hellriders]]. She replied, informing him of the events that took place on [[Haruman's Hill]], specifically regarding [[Jander]] and his [[Vampire|condition]]. She received a final sending from Ramius informing her that they hadn't seen [[Gargauth]] in some time. Ilsa-vyx gave a final response in which she talked about [[The Hells' Exiles]] and the lead they gave the party, that [[Lulu]] was at [[The Wandering Emporium]].
 ## So they changed course...
-They needed to cross [[The Styx]] to get to [[The Wandering Emporium]]. They had to wait for [[Koh Tam|The Ferryman]]. It seemed for a while that no one was going to show up, but then a barge pushed upstream. At first it appeared as a simple wooden sailboat, but the closer it got the more it seemed. The figure operating the barge was none other than [[Koh Tam]]. He was not alone, though, accompanied by a [[Rinne|tiefling]] passenger with icy daggers.
+They needed to cross [[The River Styx]] to get to [[The Wandering Emporium]]. They had to wait for [[Koh Tam|The Ferryman]]. It seemed for a while that no one was going to show up, but then a barge pushed upstream. At first it appeared as a simple wooden sailboat, but the closer it got the more it seemed. The figure operating the barge was none other than [[Koh Tam]]. He was not alone, though, accompanied by a [[Rinne|tiefling]] passenger with icy daggers.
 
 ![[Levistus Tiefling.png]]
 

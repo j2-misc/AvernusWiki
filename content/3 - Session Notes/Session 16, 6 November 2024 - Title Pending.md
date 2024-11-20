@@ -8,7 +8,17 @@ aliases:
 - [[Ilsa-Vyx]]
 - [[Kiarin]]
 # Bullets
-- 
+- The party introduced [[Gargauth]] to [[Ramius Dangremond|Ramius]] and the [[Hellriders]] in [[Elturel]]
+	- They weren't thrilled about having a giant [[Demons|Demon]] in the city, but they'd tolerate him so long as he helped protect the city
+- [[Zythan Avhoste|Zythan]] informed the party about some observations, most notably:
+	- [[The Companion]] was a battery for some powerful magic keeping [[Elturel]] in [[Baator|Hell]]
+	- It was dragging the city deeper toward [[The River Styx|The River Styx]]
+	- The line from the poem ([[Session 6, 7 August 2024 - Idyllglen|Session 6]]) *"Wrench the pact from clenched jaws; And render null the debtor’s clause"* seemed to point to the pact [[Thavius Kreeg]] signed with [[Zariel]] which would be held in a vault belonging to the [[Ninth City Advocacy Services]], a sort of hellish contractual middleman
+- Ilsa-vyx informed Ramius about the party's dealings with [[Levistus]] and he said they shouldn't trust him
+- The party hung out at [[The Dancing Horse]] and gave a stunning performance
+- Mekhi had a dream wherein his patron reminded him of his duties
+- Ilsa-vyx had a dream in which she spoke with Levistus about [[Jade Strongwind|her mother]], but she refused his offerings
+- The party set out for [[The Crypt of the Hellriders]] and ran into some [[Devils]] along the way, guarding a strange, disgusting monster
 # Verbose
 The party headed to [[The High Hall]], where they met [[Hilde & Nullob|Hilde]], one of the [[Hellriders]]. It seemed [[Ramius Dangremond|The High Rider]] wasn't expecting them. They explained they were there to deliver supplies, and that [[Gargauth]] was nothing to worry about. Hilde begrudgingly accepted this, and [[Lulu]] helped quell the concern of the masses as they walked through the streets. When they got to Ramius, they explained the Gargauth situation to him as well. He figured it might as well happen, and asked for a full report.
 
@@ -116,7 +126,7 @@ Lulu transformed into a giant wooly mammoth and helped the party descend with Ga
 
 The city grew fainter and fainter, the last thing they saw being [[The Companion]], still crackling in the red sky.
 ## On the way
-They spied a pair of [[Chain Devil|Chain Devils]] watching some strange, floating creature restrained by chains, bleeding black ichor onto the ground below it. A bat-like fiend with green skin and a clockwork breastplate interrogated the prisoner, shouting a mix of abyssal and infernal. Mekhi, having casted *tongues* earlier, understood what they were asking, something about demonic rifts in [[The Styx]].
+They spied a pair of [[Chain Devil|Chain Devils]] watching some strange, floating creature restrained by chains, bleeding black ichor onto the ground below it. A [[Fetchtatter|bat-like fiend]] with green skin and a clockwork breastplate interrogated the prisoner, shouting a mix of abyssal and infernal. Mekhi, having casted *tongues* earlier, understood what they were asking, something about demonic rifts in [[The River Styx]].
 
 ![[Sibriex.png]]
 

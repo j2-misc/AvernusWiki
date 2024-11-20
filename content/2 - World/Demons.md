@@ -1,6 +1,7 @@
 ---
 tags:
   - Monsters
+  - Demons
 aliases:
   - Demon
   - Demonkind

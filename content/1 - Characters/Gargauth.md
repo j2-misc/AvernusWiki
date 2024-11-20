@@ -1,6 +1,7 @@
 ---
 tags:
   - NPCs
+  - Demons
 title: Gargauth the Gentle
 ---
 ![[Gargauth.png]]

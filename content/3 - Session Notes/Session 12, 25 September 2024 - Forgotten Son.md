@@ -176,7 +176,7 @@ Mekhi thanked Celosia for the help on behalf of the party. They began to depart,
 ## After
 Kiarin offered Evryn her violin to borrow if he needed it, but he had a fiddle carved by his father, his favorite instrument.
 
-Mekhi went to pick up [[The Tormentor]], where he ran into [[Hellripper]] who was heading out as well. She'd lead the party out of the cave. When Mekhi picked up the car, [[Thiodon]] told him she'd put some chains on it so they could haul scrap around. They headed out and Hellripper warned them to be cautious of [[The Styx]].
+Mekhi went to pick up [[The Tormentor]], where he ran into [[Hellripper]] who was heading out as well. She'd lead the party out of the cave. When Mekhi picked up the car, [[Thiodon]] told him she'd put some chains on it so they could haul scrap around. They headed out and Hellripper warned them to be cautious of [[The River Styx]].
 
 She told them they had a few options to cross The Styx:
 1. Wait for the ferryman
@@ -184,7 +184,7 @@ She told them they had a few options to cross The Styx:
 
 "I'm not a woman with a lot of faith, but I've got faith in you four."
 ## Westward
-The party headed toward the [[Lake of Slime]]. [[Ilsa-Vyx]] provided the [[Infernal War Machine|fuel]] and they eventually made it to a stretch of [[The Styx|The River Styx]]. It didn't move in quite the way one would expect. The party contemplated how to get across a shallow bit of The Styx, but Kiarin convinced Mekhi to let her drive them the long, safe way around at the cost of her donating the fuel for their vessel.
+The party headed toward the [[Lake of Slime]]. [[Ilsa-Vyx]] provided the [[Infernal War Machine|fuel]] and they eventually made it to a stretch of [[The River Styx|The River Styx]]. It didn't move in quite the way one would expect. The party contemplated how to get across a shallow bit of The Styx, but Kiarin convinced Mekhi to let her drive them the long, safe way around at the cost of her donating the fuel for their vessel.
 
 Along the way Ilsa-vyx spotted a [[Devils|Devil]] waving them down.
 
@@ -253,7 +253,7 @@ The party then reiterated that they wanted information about Zariel's former gen
 
 "And who's this pawn?" Mekhi asked.
 
-"Nearby this [[Levistus's Emissary|Emissary]] is a [[Lake of Slime]]. But the slime is not some harmless substance, but the decomposed slurry of... well... someone who Zariel has wronged. An offshoot stream of [[The Styx|The River Styx]] is what caused the decomposition, so if you can dam that stream, then you could use the help of the individual. I could help you with that, but what's in it for me? Can I have your goodwill, that we can work in an amicable alliance for the undermining of Zariel's rule?"
+"Nearby this [[Levistus's Emissary|Emissary]] is a [[Lake of Slime]]. But the slime is not some harmless substance, but the decomposed slurry of... well... someone who Zariel has wronged. An offshoot stream of [[The River Styx|The River Styx]] is what caused the decomposition, so if you can dam that stream, then you could use the help of the individual. I could help you with that, but what's in it for me? Can I have your goodwill, that we can work in an amicable alliance for the undermining of Zariel's rule?"
 
 Ilsa-vyx asked more about the entity, to which Levistus explained that they'd find an unlikely ally in [[Shummrath]]. Then, when they return to the Emissary, Levistus would grant them a boon of his choosing.
 

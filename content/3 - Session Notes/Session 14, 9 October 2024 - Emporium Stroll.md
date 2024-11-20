@@ -20,7 +20,7 @@ aliases:
 - Ilsa-vyx got a new cool silver maul
 - Evryn got his hair done and a Soul Coin containing the soul of a [[Soul-trapped Wyrmling]]
 # Verbose
-Mekhi spoke with [[Koh Tam|The Ferryman]] about their destination, [[The Wandering Emporium]]. He warned him about [[Mahadi]], its proprietor, cautioning him against making any deals which he wasn't certain he could afford. Afterwards, Mekhi and Ilsa-vyx had a conversation about whether or not Mekhi was "natty." In a somewhat roundabout fashion, this led to them asking [[Koh Tam]] whether or not there were fish in [[The Styx|The River Styx]].
+Mekhi spoke with [[Koh Tam|The Ferryman]] about their destination, [[The Wandering Emporium]]. He warned him about [[Mahadi]], its proprietor, cautioning him against making any deals which he wasn't certain he could afford. Afterwards, Mekhi and Ilsa-vyx had a conversation about whether or not Mekhi was "natty." In a somewhat roundabout fashion, this led to them asking [[Koh Tam]] whether or not there were fish in [[The River Styx|The River Styx]].
 
 "It's not wise to eat anything from the River Styx, unless you have an appetite for [[Demons]]," he said. Then he asked for the party to begin settling their debt, by telling him of their journey so far. Kiarin told Koh Tam about most of the events at [[Haruman's Hill]], without mentioning anything about [[The Hells' Exiles]] ([[Session 10, 4 September 2024 - Haruman's Hill|Session 10]], [[Session 11, 11 September 2024 - To Exile|11]]).
 
