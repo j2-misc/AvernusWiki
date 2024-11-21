@@ -13,7 +13,7 @@ aliases:
 - Down the road they ran into [[Hezmond]] and his [[The Grinning Blade]]
 - Evryn challenged him to a duel, per [[Ashton Dungress]]'s request, and barely won, earning Hezmond's true name, [[Hezmond|Henzie Torre]], and a book of stories
 - As they left, the party found a [[Spined Devil]] which explained it was actually a [[Fire Giant]] and Champion of [[Surtur]]
-- [[Uldrak]] explained he was transformed into a Devil by the magic of the [[Archdevil]] [[Bael]] after a failed attempt to liberate his fellows who'd been enslaved
+- [[Uldrak]] explained he was transformed into a Devil by the magic of the [[Devils|Devil]] [[Bel]] after a failed attempt to liberate his fellows who'd been enslaved
 	- The party will have to pay a visit to [[Celosia]], but that would likely not happen anytime soon
 - Uldrak then helped lead the party to [[The Crypt of the Hellriders]].
 # Verbose
@@ -97,7 +97,7 @@ The party complied, and the devil explained, "My name is [[Uldrak]], and I need 
 
 "Well whatever. You're a [[Devils|Devil]], right?" Mekhi said.
 
-"No, I'm not," Uldrack said, "I have the body of a devil, but I am a Giant Champion of [[Surtur]], and I came to kill [[Bael]]." His others were enslaved, and he sought to free them, but he failed. "Bael still lives. People still live as slaves." He swore to Surtur he'd kill Bael, but was tricked. "That's what I hate most about these Devils."
+"No, I'm not," Uldrack said, "I have the body of a devil, but I am a Giant Champion of [[Surtur]], and I came to kill [[Bel]]." His others were enslaved, and he sought to free them, but he failed. "Bel still lives. People still live as slaves." He swore to Surtur he'd kill Bel, but was tricked. "That's what I hate most about these Devils."
 
 After a moment's hesitation, Evryn suggested visiting [[Celosia]], without naming names.
 

@@ -9,4 +9,4 @@ aliases:
 ---
 His name was Ashton Dungress and he was seemingly tricked by a devil, which was why he was currently a [[Soul Coin|coin]]. Before he was a coin, he was a duelist of some renown. He met with a fiend, [[Hezmond]], with a blazing rapier, so he challenged him to a duel and of course, he lost. He thanked Evryn for listening, and advised him not to make any deals like he did.
 
-Evryn avenged him by winning a mostly fair duel against Hezmond ([[Session 17, 13 November 2024 - Dueling with the Devil|Session 17]]).
+Evryn avenged him by winning a mostly fair duel against Hezmond ([[Session 17, 13 November 2024 - A Duel with the Devil|Session 17]]).
