@@ -13,7 +13,7 @@ aliases:
 - Down the road they ran into [[Hezmond]] and his [[The Grinning Blade]]
 - Evryn challenged him to a duel, per [[Ashton Dungress]]'s request, and barely won, earning Hezmond's true name, [[Hezmond|Henzie Torre]], and a book of stories
 - As they left, the party found a [[Spined Devil]] which explained it was actually a [[Fire Giant]] and Champion of [[Surtur]]
-- [[Uldrak]] explained he was transformed into a Devil by the magic of the [[Devils|Devil]] [[Bel]] after a failed attempt to liberate his fellows who'd been enslaved
+- [[Uldrak]] explained he was transformed into a Devil by the magic of the [[Archdevil]] [[Bel]] after a failed attempt to liberate his fellows who'd been enslaved
 	- The party will have to pay a visit to [[Celosia]], but that would likely not happen anytime soon
 - Uldrak then helped lead the party to [[The Crypt of the Hellriders]].
 # Verbose

@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Find the [[Staff of Power]] shard in [[The Fallen Tower]]
+- [x] Find [[Olanthius]] at [[The Crypt of the Hellriders]]
 - [x] Soul Coin: Set [[Ashton Dungress]] to rest
 - [x] Gather supplies for the [[Elturel]] Refugees
 - [x] Cause mischief at [[The Infernal Rapture]]
@@ -23,9 +25,9 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Find [[Olanthius]] at [[The Crypt of the Hellriders]]
-- [ ] Find the [[Staff of Power]] shard in [[the flying tower]]
+- [ ] Free [[Uldrak]] from his fiendish form
 - [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
+- [ ] Soul Coin: Find [[Kara]]'s sister
 
 
 ## To-Do
@@ -34,7 +36,6 @@ kanban-plugin: board
 - [ ] Find [[Lady Yael]] at [[the cyst]]
 - [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 - [ ] Reunite [[Gargauth]] with [[Koh Tam]]
-- [ ] Free [[Uldrak]] from his fiendish form
 - [ ] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
 
 
