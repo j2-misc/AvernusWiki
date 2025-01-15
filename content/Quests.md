@@ -7,6 +7,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Defend the [[Exiles' base]] from the [[Warlord Gangs]]
+- [x] Free [[Uldrak]] from his fiendish form
+- [x] Soul Coin: Find [[Kara]]'s sister
 - [x] Find the [[Staff of Power]] shard in [[The Fallen Tower]]
 - [x] Find [[Olanthius]] at [[The Crypt of the Hellriders]]
 - [x] Soul Coin: Set [[Ashton Dungress]] to rest
@@ -25,9 +28,9 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Free [[Uldrak]] from his fiendish form
+- [ ] Find [[Koh Tam]]
+- [ ] Awaken [[Celosia]]
 - [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
-- [ ] Soul Coin: Find [[Kara]]'s sister
 
 
 ## To-Do
@@ -37,6 +40,7 @@ kanban-plugin: board
 - [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 - [ ] Reunite [[Gargauth]] with [[Koh Tam]]
 - [ ] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
+- [ ] Find a way to keep remote contact with [[The Hells' Exiles]]
 
 
 ## Backlog

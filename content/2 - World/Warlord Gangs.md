@@ -8,3 +8,4 @@ In [[Avernus]] there are several Warlord Gangs: bands of cruel soldiers under th
 - [[Eighth Remnant]]
 - [[The Golden Doom]]
 - [[The Marauders]]
+- [[The Grinning Blade]]

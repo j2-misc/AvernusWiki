@@ -17,3 +17,5 @@ Recently, she made a pact with [[Thavius Kreeg|High Overseer Thavius Kreeg]] to 
 # Allegiances
 - [[Devils]]
 - [[Avernus]]
+- [[Bel]] (antagonistic)
+- [[Warlord Gangs]] (tenuous)

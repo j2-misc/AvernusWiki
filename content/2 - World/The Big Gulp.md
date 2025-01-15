@@ -2,4 +2,4 @@
 tags:
   - Magical_Item
 ---
-- Immunity to all damage for an undefined duration
+- Immunity to all damage for an undefined duration (while drinking it)
