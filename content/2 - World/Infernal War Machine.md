@@ -3,6 +3,10 @@ tags:
   - Magical_Item
   - Avernus
   - Hells
+aliases:
+  - War Machine
+  - War Machines
+  - Infernal War Machines
 ---
 ![[InfernalWarMachines.png]]
 Vehicles found only in [[Baator]] fueled by life energy. [[Soul Coin|Soul Coins]] fuel the machines for a full day, whereas a bit of a living person's life essence (1 hit die) can power a typical machine for about 3 hours.

@@ -7,6 +7,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Harvest divine essence from the [[Hellwasp Nest]]
+- [x] Free the [[Fire Giant|Fire Giants]]
+- [x] Find [[Koh Tam]]
 - [x] Defend the [[Exiles' base]] from the [[Warlord Gangs]]
 - [x] Free [[Uldrak]] from his fiendish form
 - [x] Soul Coin: Find [[Kara]]'s sister
@@ -28,26 +31,27 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Find [[Koh Tam]]
-- [ ] Awaken [[Celosia]]
+- [ ] Reawaken [[Celosia]]
 - [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
 
 
 ## To-Do
 
-- [ ] Find the [[Staff of Power]] shard in "someplace darker"
-- [ ] Find [[Lady Yael]] at [[the cyst]]
-- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
-- [ ] Reunite [[Gargauth]] with [[Koh Tam]]
+- [ ] Escort [[Rinne]] and [[Kara]] to [[Levistus's Emissary]]
 - [ ] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
+- [ ] Find the [[Staff of Power]] shard in "someplace darker"
+- [ ] Reunite [[Gargauth]] with [[Koh Tam]]
 - [ ] Find a way to keep remote contact with [[The Hells' Exiles]]
+- [ ] Find [[Lady Yael]] at [[the cyst]]
 
 
 ## Backlog
 
 - [ ] Learn more about [[Avernus]]
 - [ ] Repair [[The Tormentor]] (axle fixed, missing HP)
+- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 - [ ] Free [[Elturel]]
+- [ ] Stop [[The Collector]]
 
 
 

@@ -3,6 +3,8 @@ tags:
   - Magical_Item
   - Hells
   - Soul-Trapped
+aliases:
+  - Soul Coins
 ---
 ![[SoulCoin.png]]
 A magical item common in the [[Baator|Hells]] that houses a soul. Soul Coins are exchanged as currency at shops such as those in the [[The Wandering Emporium]] or [[Fort Knucklebones]] (roughly equivalent to fifty gold), and they also act as an important source of fuel for [[Infernal War Machine|Infernal War Machines]].
