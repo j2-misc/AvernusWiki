@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Reawaken [[Celosia]]
 - [x] Harvest divine essence from the [[Hellwasp Nest]]
 - [x] Free the [[Fire Giant|Fire Giants]]
 - [x] Find [[Koh Tam]]
@@ -31,22 +32,22 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Reawaken [[Celosia]]
-- [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
+- [ ] Escort [[Rinne]] and [[Kara]] to [[Levistus's Emissary]]
 
 
 ## To-Do
 
-- [ ] Escort [[Rinne]] and [[Kara]] to [[Levistus's Emissary]]
+- [ ] Get [[The Hells' Exiles]] to [[Elturel]]
 - [ ] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
-- [ ] Find the [[Staff of Power]] shard in "someplace darker"
-- [ ] Reunite [[Gargauth]] with [[Koh Tam]]
-- [ ] Find a way to keep remote contact with [[The Hells' Exiles]]
+- [ ] Find the [[Staff of Power]] shard in [[The War Slough]]
 - [ ] Find [[Lady Yael]] at [[the cyst]]
+- [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
 
 
 ## Backlog
 
+- [ ] Find a way to keep remote contact with [[The Hells' Exiles]]
+- [ ] Reunite [[Gargauth]] with [[Koh Tam]]
 - [ ] Learn more about [[Avernus]]
 - [ ] Repair [[The Tormentor]] (axle fixed, missing HP)
 - [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
