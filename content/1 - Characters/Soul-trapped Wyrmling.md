@@ -2,7 +2,7 @@
 tags:
   - NPCs
   - Soul-Trapped
-title: Tirzah
+title: Tirzah, Tale of the Clever Creature
 aliases:
   - Tirzah
 ---
