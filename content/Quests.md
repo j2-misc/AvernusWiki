@@ -7,6 +7,10 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
+- [x] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
+- [x] Get [[The Hells' Exiles]] to [[Elturel]]
+- [x] Escort [[Rinne]] and [[Kara]] to [[Levistus's Emissary]]
 - [x] Reawaken [[Celosia]]
 - [x] Harvest divine essence from the [[Hellwasp Nest]]
 - [x] Free the [[Fire Giant|Fire Giants]]
@@ -32,16 +36,12 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Escort [[Rinne]] and [[Kara]] to [[Levistus's Emissary]]
+- [ ] Find the [[Staff of Power]] shard in [[The War Slough]]
 
 
 ## To-Do
 
-- [ ] Get [[The Hells' Exiles]] to [[Elturel]]
-- [ ] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
-- [ ] Find the [[Staff of Power]] shard in [[The War Slough]]
 - [ ] Find [[Lady Yael]] at [[the cyst]]
-- [ ] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
 
 
 ## Backlog
