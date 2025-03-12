@@ -7,6 +7,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Free [[The Hidden Lord]]
+- [x] Find the [[Staff of Power]] shard in [[The War Slough]]
+- [x] Learn more about [[Avernus]]
 - [x] Soul Coin: Outsmart a powerful foe to liberate the wyrmling trapped in the [[Soul Coin]] Evryn got from [[Burney's Barber Shop]]
 - [x] Steal [[Thavius Kreeg]]'s contract from [[Ninth City Advocacy Services]]
 - [x] Get [[The Hells' Exiles]] to [[Elturel]]
@@ -36,23 +39,21 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Find the [[Staff of Power]] shard in [[The War Slough]]
+- [ ] Find [[Lady Yael]] at [[the cyst]]
+- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 
 
 ## To-Do
 
-- [ ] Find [[Lady Yael]] at [[the cyst]]
+- [ ] Free [[Elturel]]
+- [ ] Stop [[The Collector]]
 
 
 ## Backlog
 
 - [ ] Find a way to keep remote contact with [[The Hells' Exiles]]
 - [ ] Reunite [[Gargauth]] with [[Koh Tam]]
-- [ ] Learn more about [[Avernus]]
 - [ ] Repair [[The Tormentor]] (axle fixed, missing HP)
-- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
-- [ ] Free [[Elturel]]
-- [ ] Stop [[The Collector]]
 
 
 
