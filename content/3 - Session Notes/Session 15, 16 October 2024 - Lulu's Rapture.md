@@ -21,7 +21,7 @@ aliases:
 	- Lulu
 	- the ire of an [[Erinyes]] whose [[magical brooch]]--which [[Mahadi]]'d used to summon her--Kiarin briefly stole
 	- [[The Meat Grinder]]
-- Lulu then talked with the party about who they were and asked them to find [[The Sword of Zariel]] at [[the cyst]] in the hopes that it could turn [[Zariel]] good so she could free [[Elturel]]
+- Lulu then talked with the party about who they were and asked them to find [[The Sword of Zariel]] at [[The Cyst]] in the hopes that it could turn [[Zariel]] good so she could free [[Elturel]]
 - Lulu also said they shouldn't trust [[The Hidden Lord]] as it was the shield [[Lord Yashio]] the [[Demon Lord]] bore at [[Idyllglen|the Battle of Idyllglen]]
 - The Hidden Lord addressed the allegations, apologizing for not sharing more of his history with the party
 	- He said he was in truth a wizard as he'd told them before
@@ -93,7 +93,7 @@ The party then explained that Elturel was still standing (technically; more like
 
 Mekhi explained, somewhat unceremoniously, that they found and killed [[Haruman]], and that they found [[Jander]] but he was a [[Vampire]] (though that wasn't different).
 
-Lulu was on the verge of tears, entirely overwhelmed learning most of her friends turned super evil. Though she did offer to tell them where Olanthius and [[Lady Yael]] were. Olanthius was presumably still at [[The Crypt of the Hellriders]] to the southwest; Yael, [[the cyst]].
+Lulu was on the verge of tears, entirely overwhelmed learning most of her friends turned super evil. Though she did offer to tell them where Olanthius and [[Lady Yael]] were. Olanthius was presumably still at [[The Crypt of the Hellriders]] to the southwest; Yael, [[The Cyst]].
 
 Olanthius and his soldiers supposedly built the crypt to seal themselves away as to not turn like [[Haruman]]. Olanthius sent Lulu to see if she could find a way to get everyone out, but that was when she was captured by Mahadi.
 

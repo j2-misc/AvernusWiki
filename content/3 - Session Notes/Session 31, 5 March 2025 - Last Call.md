@@ -2,6 +2,7 @@
 aliases:
   - Session 31
 ---
+Alternate title: *Boulevard of Broken Cheese*
 # Party
 - [[Mekhi]]
 - [[Evryn]]
@@ -16,7 +17,7 @@ aliases:
 - Kiarin broke into the vacant [[The Infernal Rapture|Infernal Rapture]] to make the world's worst sandwich and cry about her shitty ex-situationship
 	- Mekhi and Evryn attempted to cheer her up, in part by burning down the restaurant
 - Ilsa-vyx attempted to fix [[The Meat Grinder]] (which had damaged its axle during [[Session 30, 26 February 2025 - The War Slough|Session 30]])
-- Then the party left for [[the cyst]]
+- Then the party left for [[The Cyst]]
 # Verbose
 [[Lord Yashio]] held the [[Staff of Power]] in hand, animated shield orbiting him. "Thank you, truly, for freeing me." He was the same [[Demons|Demon]] they saw at the [[Idyllglen|the Battle of Idyllglen]] ([[Session 6, 7 August 2024 - Idyllglen|Session 6]]).
 
@@ -40,7 +41,7 @@ Yashio confirmed and invited Evryn to cast zone of truth. He asked Mekhi to calm
 
 "I've given it to you for free." He asked the party why they were so quick to judge.
 
-Yashio and Kiarin had a dialogue, through which she realized that Yashio was responsible for razing Idyllglenn, under the instruction of [[Frazerblu]], the real Karnivash, but it was him who set into motion the events that led to Zariel's fall and the damnation of Elturel.
+Yashio and Kiarin had a dialogue, through which she realized that Yashio was responsible for razing Idyllglenn, under the instruction of [[The Collector|Fraz-Urb'luu]], the real Karnivash, but it was him who set into motion the events that led to Zariel's fall and the damnation of Elturel.
 
 Mekhi asked Yashio how they could guarantee he'd stick to his word, suggesting a contract, which he resisted. Then, he offered an ultimatum: when they'd return to Elturel, they would see Bel and him. They could slay Bel and he would destroy the Companion, freeing Elturel, or they could wrench the Staff of Power from his cold, dead hands. Then he was gone.
 

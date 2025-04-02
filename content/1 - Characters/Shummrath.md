@@ -5,6 +5,8 @@ tags:
   - Demon_Lords
   - Demons
 title: Shummrath the Immortal
+aliases:
+  - Bathael
 ---
 ![[Shummrath.png]]
 

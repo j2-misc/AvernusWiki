@@ -19,4 +19,4 @@ The first of the Nine Hells of [[Baator]], Avernus is the domain of the Archdevi
 - [[Ninth City Advocacy Services]]
 - [[Levistus's Emissary]]
 - [[The Crypt of the Hellriders]]
-- [[the cyst]]
+- [[The Cyst]]

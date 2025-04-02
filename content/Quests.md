@@ -7,6 +7,15 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] End this
+- [x] Stop [[The Collector]]
+- [x] Kill [[The Hidden Lord|Yashio]]
+- [x] Kill [[Bel]]
+- [x] Negotiate a contract with [[The Hidden Lord|Yashio]]
+- [x] Free [[Elturel]]
+- [x] Redeem [[Zariel]]
+- [x] Find [[The Sword of Zariel]]
+- [x] Find [[Lady Yael]] at [[The Cyst]]
 - [x] Free [[The Hidden Lord]]
 - [x] Find the [[Staff of Power]] shard in [[The War Slough]]
 - [x] Learn more about [[Avernus]]
@@ -39,14 +48,10 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Find [[Lady Yael]] at [[the cyst]]
-- [ ] Find [[The Sword of Zariel]] and use it to redeem [[Zariel]]
 
 
 ## To-Do
 
-- [ ] Free [[Elturel]]
-- [ ] Stop [[The Collector]]
 
 
 ## Backlog
